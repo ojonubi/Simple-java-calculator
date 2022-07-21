@@ -19,8 +19,8 @@ public class CalculatorRunner {
 		System.out.println("Second Number: ");
 		secondNum = scan.nextDouble();
 	
-		System.out.println(addition(firstNum, secondNum));
-//		multiplication(firstNum,secondNum);
+		//System.out.println(addition(firstNum, secondNum));
+	        //multiplication(firstNum,secondNum);
 		
 		
 		
